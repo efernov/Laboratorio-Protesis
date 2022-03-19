@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "laboratorio-protesis"
+		},
+		{
+			"path": "laboratorio-protesis.wiki"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "laboratorio-protesis"
+	}
+}
